@@ -1,4 +1,7 @@
 ### Science Fair
+
+![Science Fair logo](https://github.com/codeforscience/openscienceprize/raw/master/logo.png)
+
 ##### Code For Science / Submission / Open Science Prize 2016
 -----
 
